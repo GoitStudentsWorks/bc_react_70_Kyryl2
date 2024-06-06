@@ -1,1 +1,0 @@
-{"version":3,"file":"LoginPage-reqgIFKJ.js","sources":["../../src/pages/LoginPage/LoginPage.jsx"],"sourcesContent":["import LoginForm from \"../../components/LoginForm/LoginForm\";\n\nconst LoginPage = () => <LoginForm />;\n\nexport default LoginPage;\n"],"names":["LoginPage","jsx","LoginForm"],"mappings":"sTAEM,MAAAA,EAAY,IAAMC,MAACC,EAAU,CAAA,CAAA"}

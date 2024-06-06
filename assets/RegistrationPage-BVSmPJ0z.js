@@ -1,0 +1,2 @@
+import{j as t}from"./index-BrM3yfkK.js";import o from"./RegistrationForm-Dpfh8u4S.js";import"./index.esm-HpG-ihQt.js";import"./clsx-B-dksMZM.js";import"./formik.esm-MaBi4cQ5.js";import"./hoist-non-react-statics.cjs-D6XBW7t4.js";import"./index-CTszGkJS.js";import"./CustomInput-DhXdF3M6.js";import"./Icon-B31npVNI.js";import"./Logo-CLs3QJR0.js";import"./Bar-gRuiMi25.js";const j=()=>t.jsx(o,{});export{j as default};
+//# sourceMappingURL=RegistrationPage-BVSmPJ0z.js.map
