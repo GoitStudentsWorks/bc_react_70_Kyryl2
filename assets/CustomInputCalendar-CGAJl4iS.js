@@ -1,0 +1,2 @@
+import{r as c,j as t}from"./index-BBnfrm9i.js";import{I as r}from"./Icon-D93qrst1.js";const e="_customInput_1i04b_1",u="_calendarIcon_1i04b_31",a={customInput:e,calendarIcon:u},l=c.forwardRef(({value:n,onClick:o},s)=>t.jsxs("button",{type:"button",className:a.customInput,onClick:o,ref:s,"aria-label":"calendar button",children:[n,t.jsx(r,{id:"icon-calendar",width:"24",height:"24",className:a.calendarIcon})]}));l.displayName="CustomInputCalendar";export{l as default};
+//# sourceMappingURL=CustomInputCalendar-CGAJl4iS.js.map

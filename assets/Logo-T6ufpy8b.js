@@ -1,0 +1,2 @@
+import{j as o}from"./index-BBnfrm9i.js";import{I as r}from"./Icon-D93qrst1.js";const t="_div_2smmv_1",d="_iconLogo_2smmv_8",s={div:t,iconLogo:d},v=({width:i,height:n,className:c,classLogo:m})=>o.jsxs("div",{className:s.div,children:[o.jsx(r,{id:"icon-logo",width:i,height:n,className:`${m} ${s.iconLogo}`}),o.jsx("p",{className:c,children:"Money Guard"})]});export{v as default};
+//# sourceMappingURL=Logo-T6ufpy8b.js.map

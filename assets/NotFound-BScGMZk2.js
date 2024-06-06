@@ -1,0 +1,2 @@
+import{j as e,N as s}from"./index-BBnfrm9i.js";const t="_wrapper_b0k5c_1",a="_bg_b0k5c_24",n="_textWrapper_b0k5c_30",o="_link_b0k5c_48",r={wrapper:t,bg:a,textWrapper:n,link:o},p=()=>e.jsx("div",{className:r.bg,children:e.jsxs("div",{className:r.wrapper,children:[e.jsxs("div",{className:r.textWrapper,children:[e.jsx("h1",{children:" Page not found"}),e.jsx("p",{children:"Sorry, the page you are looking for does not exist."})]}),e.jsx(s,{className:r.link,to:"/",children:"Return back"})]})});export{p as NotFound,p as default};
+//# sourceMappingURL=NotFound-BScGMZk2.js.map
