@@ -8,7 +8,7 @@ import App from "./App.jsx";
 import { persistor, store } from "./redux/store.js";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <BrowserRouter>
+  <BrowserRouter basename='/bc_react_70_Kyryl2'>
     <Provider store={store}>
       <PersistGate loading={null} persistor={persistor}>
         <App />
